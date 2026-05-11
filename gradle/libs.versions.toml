@@ -26,8 +26,8 @@ androidx-espresso = "3.7.0"
 # Compose
 compose-bom = "2026.04.01"
 compose-material3 = "1.4.0"
-compose-foundation = "1.11.0"
-compose-animation = "1.11.0"
+compose-foundation = "1.11.1"
+compose-animation = "1.11.1"
 compose-ui = "1.11.0"
 compose-icons = "1.7.8"
 
@@ -191,7 +191,7 @@ junit-jupiter-api = { module = "org.junit.jupiter:junit-jupiter-api", version.re
 mockk = { module = "io.mockk:mockk", version.ref = "mockk" }
 robolectric = { module = "org.robolectric:robolectric", version.ref = "robolectric" }
 turbine = { module = "app.cash.turbine:turbine", version.ref = "turbine" }
-androidx-compose-ui-test-junit4 = { module = "androidx.compose.ui:ui-test-junit4", version = "1.11.0" }
+androidx-compose-ui-test-junit4 = { module = "androidx.compose.ui:ui-test-junit4", version = "1.11.1" }
 
 [bundles]
 androidx-core = ["androidx-core-ktx", "androidx-appcompat", "androidx-recyclerview", "androidx-coordinatorlayout", "material"]
